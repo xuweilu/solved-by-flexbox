@@ -24,7 +24,7 @@ const {argv} = require('yargs');
 /**
  * The output directory for all the built files.
  */
-const DEST = './build';
+const DEST = '/build';
 
 /**
  * The name of the Github repo.
